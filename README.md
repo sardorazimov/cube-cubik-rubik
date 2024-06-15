@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://t.me/azsams" target="_blank">
-      <img src="https://github.com/sardorazimov/e_commerce/blob/master/public/e.png?raw=true" alt="Project Banner">
+      <img src=https://github.com/sardorazimov/cube-cubik-rubik/blob/main/assets/readme.png?raw=true alt="Project Banner">
     </a>
   <br />
   
